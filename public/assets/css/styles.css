@@ -478,7 +478,7 @@ body{
     flex-wrap: wrap-reverse;
     }
     .containercontainercontainerlogin {
-        width: 520px;
+        width: 480px;
         margin: 100px auto;
         padding: 20px;
         background-color: rgb(165, 170, 212);
@@ -492,7 +492,7 @@ body{
 
     .container{
         width: 90%;
-        max-width: 520px;
+        max-width: 480px;
         overflow: hidden;
         margin: 0 auto;
         padding: var(--padding-container);
@@ -507,7 +507,7 @@ body{
    
    
     .containercontainerlogin {
-        width: 500px;
+        width: 480px;
         margin: 100px auto;
         padding: 20px;
         background-color: rgb(70, 70, 238);
