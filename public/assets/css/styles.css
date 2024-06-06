@@ -506,7 +506,6 @@ body{
     }
    
    
-   
     .containercontainerlogin {
         width: 700px;
         margin: 100px auto;
@@ -520,12 +519,10 @@ body{
     flex-wrap: wrap-reverse;
        
    
-       
-   
     }
    
     .containerlogin {
-        width: 200px;
+        width: 220px;
         margin: 100px auto;
         padding: 20px;
         background-color: rgb(235, 235, 243);
@@ -551,6 +548,7 @@ body{
    
    
     }
+
     
 
 
